@@ -19,11 +19,9 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={BookStore}
-              //isBlog={false}
               title="E-commerce"
               description="Explore our bookshop online, easily add books to your cart, and enjoy a smooth checkout experience for all your literary finds!"
               ghLink="https://github.com/delfiduar/E-commerce-Books"
-              //demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
