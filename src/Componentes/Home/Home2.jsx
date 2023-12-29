@@ -19,7 +19,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              something, I guess… 🤷‍♂️
               <br />
               <br />
               My field of interest is the creation and&nbsp;
@@ -28,14 +28,14 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for learning new <b className="purple">technologies</b> from other
+              Part of my free timeis dedicated to my passion for learning new <b className="purple">technologies</b> from other
               <i>
                 <b className="purple">
                   {" "}
-                  development sectors
+                  development sectors.
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; 
              
             </p>
           </Col>

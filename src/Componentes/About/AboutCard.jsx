@@ -16,7 +16,7 @@ function AboutCard() {
             I am a <span className="purple"> Computer Engineering </span> student.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, there are other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
@@ -31,7 +31,7 @@ function AboutCard() {
           </ul>
           
           <p style={{ color: "rgb(155 126 172)" }}>
-            "It's amazing what you can do when ou try!"{" "}
+            "It's amazing what you can do when you try!"{" "}
           </p>
           <footer className="blockquote-footer">delfiduart</footer>
         </blockquote>
